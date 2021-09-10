@@ -11,7 +11,7 @@ This NSE Tool app is developed using C# that scrapes NSE live Stocks prices and 
 ![demo](https://user-images.githubusercontent.com/68910039/132856622-16c16448-237a-4da8-9471-8beb853b89cc.gif)
 
 # Download
-
+[Click Here To Download](https://github.com/henry-richard7/NSE-Tool-Stocks-Aerial-View/releases/download/1.0/NSE.Tool.-.Stocks.Aerial.View.zip)
 
 # My Youtube Channel
 [![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
