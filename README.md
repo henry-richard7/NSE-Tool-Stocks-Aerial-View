@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/NSE-Tool-Stocks-Aerial-View/total.svg?style=for-the-badge&logo=github)
+
 # NSE-Tool-Stocks-Aerial-View
 This NSE Tool app is developed using C# that scrapes NSE live Stocks prices and gives you Pivot, Resistance and DMA for your selected stocks.
 
